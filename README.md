@@ -6,7 +6,7 @@ about detailed aspects of AI services from users' perspective (different from re
 We want to build the "Yelp" for AI and Robotics community and ease the burden of customers choosing various AI services. 
 
 
-![image text](./store/image_generator.jpg "AI Image Generator Reviews and Ratings")
+![image text](./image_generator.jpg "AI Image Generator Reviews and Ratings")
 
 
 ## Detailed AI Service Use Case
@@ -19,7 +19,7 @@ Users can write review and give overall rating from 1 to 5 to each function of A
 as well as give detailed rating of different aspects of each function, including "Correctness", "Helpfulness" and "Interesting", 
 and customized aspects of each function, such as "Clarity of image", "Image Resolution", "Artistic", "Grammar", "Succintness" and more.
 
-![image text](./store/image_generator_example_1.jpg "AI Image Generator Reviews and Ratings Comments 1")
+![image text](./image_generator_example_1.jpg "AI Image Generator Reviews and Ratings Comments 1")
 
 
 ## All Categories and People Groups
