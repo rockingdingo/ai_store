@@ -224,12 +224,29 @@ Prompts (Questions)
 How do I file divorce in California and I want my 3 years old son's custody
 Do I need a personal injury lawyer to get compensation as victims of car or truck accident?"
 
-### ShowCases
-[Ask ChatGPT Facts about Investment and Seek Advice](http://www.deepnlp.org/store/finance/investment/pub-chatgpt-openai/ask-chatgpt-facts-about-investment-and-seek-advice)
 
-[Ask Gemini Facts about Investment and Seek Advice](http://www.deepnlp.org/store/finance/investment/pub-chatgpt-openai/ask-chatgpt-facts-about-investment-and-seek-advice)
+### AI in Investment Finance
+[AI in Finance Investment](http://www.deepnlp.org/store/finance/investment) <br>
 
-[Ask Claude Facts about Investment and Seek Advice](http://www.deepnlp.org/store/finance/investment/pub-claude-anthropic/ask-claude-facts-about-investment-and-seek-advice)
+[Ask ChatGPT Facts about Investment and Seek Advice](http://www.deepnlp.org/store/finance/investment/pub-chatgpt-openai/ask-chatgpt-facts-about-investment-and-seek-advice) <br>
+[Ask Gemini Facts about Investment and Seek Advice](http://www.deepnlp.org/store/finance/investment/pub-chatgpt-openai/ask-chatgpt-facts-about-investment-and-seek-advice)  <br>
+[Ask Claude Facts about Investment and Seek Advice](http://www.deepnlp.org/store/finance/investment/pub-claude-anthropic/ask-claude-facts-about-investment-and-seek-advice) <br>
+
+
+### AI in INSURANCE Finance
+[AI in Finance INSURANCE](http://www.deepnlp.org/store/finance/insurance)
+
+
+### AI in DEBT Finance
+[AI in Debt Finance](http://www.deepnlp.org/store/finance/debt)
+
+
+### AI in Mortgage and Loan Finance
+[AI in Mortgage Loan Finance](http://www.deepnlp.org/store/finance/mortgage-&-loan)
+
+
+### AI in BANKING Finance
+[AI in BANKING Finance](http://www.deepnlp.org/store/finance/banking)
 
 
 
