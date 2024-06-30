@@ -254,11 +254,14 @@ Show Cases <br>
 
 
 ### AI in Mortgage and Loan Finance
-[AI in Mortgage Loan Finance](http://www.deepnlp.org/store/finance/mortgage-&-loan)
+[AI in Mortgage Loan Finance](http://www.deepnlp.org/store/finance/mortgage-&-loan) <br>
+
+[Ask gemini mortgage & loan related questions](http://www.deepnlp.org/store/finance/mortgage-&-loan/pub-chatgpt-openai/ask-gemini-mortgage-&-loan-related-questions) <br>
+[Ask chatgpt mortgage & loan related questions](http://www.deepnlp.org/store/finance/mortgage-&-loan/pub-chatgpt-openai/ask-chatgpt-mortgage-&-loan-related-questions) <br>
 
 
 ### AI in BANKING Finance
-[AI in BANKING Finance](http://www.deepnlp.org/store/finance/banking)
+[AI in BANKING Finance](http://www.deepnlp.org/store/finance/banking) <br>
 
 
 
