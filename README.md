@@ -250,6 +250,39 @@ Do I need a personal injury lawyer to get compensation as victims of car or truc
 
 
 
+## AI in Healthcare
+
+### HOSPITAL APPOINTMENT
+[AI in HOSPITAL APPOINTMENT](http://www.deepnlp.org/store/healthcare/hospital-appointment)
+
+
+### HOSPITAL
+[AI in Hospital Healthcare](http://www.deepnlp.org/store/healthcare/hospital)
+
+
+### AI in ILLNESS
+[AI in ILLNESS Healthcare](http://www.deepnlp.org/store/healthcare/illness)
+
+### MEDICINE
+[AI in Medicine Healthcare](http://www.deepnlp.org/store/healthcare/medicine)
+
+
+### NURSING
+[AI in NURSING Healthcare](http://www.deepnlp.org/store/healthcare/nursing)
+
+
+### BEAUTY
+[AI in BEAUTY Healthcare](http://www.deepnlp.org/store/healthcare/nursing)
+
+
+### ELDERLY CARE
+[AI in ELDERLY CARE](http://www.deepnlp.org/store/healthcare/elderly-care)
+
+
+
+### MEDICAL INSTRUMENT
+[AI in MEDICAL INSTRUMENT](http://www.deepnlp.org/store/healthcare/medical-instrument)
+
 
 ## AI for Elderly: User Ratings, Reviews and Showcase
 
