@@ -1,5 +1,3 @@
-### AI Store
-
 # DeepNLP AI Store
 DeepNLP AI Store (http://www.deepnlp.org/store) is a newly released website to let users write genuine reviews, ratings, human evaluation, prompts and share use cases
 about detailed aspects of AI services from users' perspective (different from researchers' perspective like the LLM/MultiModal benchmarks). 
@@ -233,12 +231,8 @@ Criminal Law AI App Performance Review, Ranking
 Prompts (Questions) exmaples
 1. Is Tesla a Buy Stock?
 2. How has the dollar-euro conversion rate changed recently?
-
-
-Prompts (Questions)
-How do I file divorce in California and I want my 3 years old son's custody
-Do I need a personal injury lawyer to get compensation as victims of car or truck accident?"
-
+3. Should I buy health insurance for my mom who is above 50 years old already?
+4. My mom has broken her legs and is on wheels right now. And I am wondering if it's economic to buy additional health insurance.
 
 ### AI in Investment Finance
 [AI in Finance Investment](http://www.deepnlp.org/store/finance/investment) <br>
@@ -249,8 +243,11 @@ Do I need a personal injury lawyer to get compensation as victims of car or truc
 
 
 ### AI in INSURANCE Finance
-[AI in Finance INSURANCE](http://www.deepnlp.org/store/finance/insurance)
-
+[AI in Finance INSURANCE](http://www.deepnlp.org/store/finance/insurance) <br>
+Show Cases <br>
+[Ask gemini insurance related questions](http://www.deepnlp.org/store/finance/insurance/pub-gemini-google/ask-gemini-insurance-related-questions) <br>
+[Ask chatgpt insurance related questions](http://www.deepnlp.org/store/finance/insurance/pub-chatgpt-openai/ask-chatgpt-insurance-related-questions) <br>
+[Ask perplexity ai insurance related questions](http://www.deepnlp.org/store/finance/insurance/pub-perplexity/ask-perplexity-ai-insurance-related-questions) <br>
 
 ### AI in DEBT Finance
 [AI in Debt Finance](http://www.deepnlp.org/store/finance/debt)
