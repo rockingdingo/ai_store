@@ -91,6 +91,24 @@ such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about
 
 [Use Canva to Draw Fantacy and Humanoids](http://www.deepnlp.org/store/image-generator/fantacy/pub-canva/use-canva-to-draw-fantacy-and-humanoids)
 
+
+## AI Store of Chatbot & Assistant: User Ratings, Reviews and Showcase
+[AI  Chatbot & Assistant](http://www.deepnlp.org/store/chatbot-assistant) <br>
+
+
+### RECENT NEWS & TREND
+[AI in Chatbot Assistant RECENT NEWS & TREND](http://www.deepnlp.org/store/chatbot-assistant/recent-news-&-trend) <br>
+
+
+### FUTURE EVENTS
+[AI in Chatbot Assistant Future Events](http://www.deepnlp.org/store/chatbot-assistant/future-events) <br>
+
+
+### ENCYCLOPAEDIA
+[AI in Chatbot Assistant ENCYCLOPAEDIA](http://www.deepnlp.org/store/chatbot-assistant/encyclopaedia) <br>
+
+
+
 ## AI Store in Law: User Ratings, Reviews and Showcase
 
 Prompts (Questions) exmaples
@@ -103,9 +121,6 @@ Do I need a personal injury lawyer to get compensation as victims of car or truc
 
 ![image text](./ai_for_law.jpg "AI for Law and Legal Reviews and Ratings")
 
-
-## AI in Law
-AI in Law, DeepNLP AI Store: Genuine User Ratings, Reviews and Showcases of AI apps
 
 This question is related to the AI app ranking based on genuine user review and ratings. AI in Law covers multiple subfields, such as Employment Law,
 Contracts and Agreements, Business and Corporate Law, Real Estate, Civil Rights Law, Family Law, Personal Injury, Criminal Law, Immigration Law.
