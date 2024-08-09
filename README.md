@@ -1,10 +1,9 @@
-# DeepNLP AI Store
+# DeepNLP AI APP Store
 DeepNLP AI Store (http://www.deepnlp.org/store) is a newly released website to let users write genuine reviews, ratings, human evaluation, prompts and share use cases
 about detailed aspects of AI services from users' perspective (different from researchers' perspective like the LLM/MultiModal benchmarks). 
-We want to build the "Yelp" for AI and Robotics community and ease the burden of customers choosing various AI services. 
+DeepNLP wants to build the platform referred as the "Yelp" of AI services, which stems from its role in providing a platform where users can discover and connect with various AI services, AI Apps and Robotics community and ease the burden of customers choosing various AI services, similar to how Yelp helps users find local businesses and services. 
 
-
-![image text](./image_generator.jpg "AI Image Generator Reviews and Ratings")
+![image text](./store/image_generator.jpg "AI Image Generator Reviews and Ratings")
 
 
 ## Detailed AI Service Use Case
@@ -17,7 +16,7 @@ Users can write review and give overall rating from 1 to 5 to each function of A
 as well as give detailed rating of different aspects of each function, including "Correctness", "Helpfulness" and "Interesting", 
 and customized aspects of each function, such as "Clarity of image", "Image Resolution", "Artistic", "Grammar", "Succintness" and more.
 
-![image text](./image_generator_example_1.jpg "AI Image Generator Reviews and Ratings Comments 1")
+![image text](./store/image_generator_example_1.jpg "AI Image Generator Reviews and Ratings Comments 1")
 
 
 ## All Categories and People Groups
@@ -36,6 +35,7 @@ AI in PUBLIC SERVICE, AI in HOUSING, AI in LAW, AI in COMMUNICATION, AI in FOOD
 [AI IMAGE GENERATOR](http://www.deepnlp.org/store/image-generator) <br>
 [AI Search Engine](http://www.deepnlp.org/store/search-engine)  <br>
 [AI Chatbot Assistant](http://www.deepnlp.org/store/chatbot-assistant)  <br>
+[AI VIDEO GENERATOR Reviews](http://www.deepnlp.org/store/video-generator) <br>
 [AI for ELDERLY](http://www.deepnlp.org/store/elderly)  <br>
 [AI for KIDS](http://www.deepnlp.org/store/kids)  <br>
 [AI in LAW](http://www.deepnlp.org/store/law) <br>
@@ -62,24 +62,45 @@ AI in PUBLIC SERVICE, AI in HOUSING, AI in LAW, AI in COMMUNICATION, AI in FOOD
 [AI in HOUSING](http://www.deepnlp.org/store/housing) <br>
 [AI in COMMUNICATION](http://www.deepnlp.org/store/communication) <br>
 [AI in FOOD](http://www.deepnlp.org/store/food) <br>
+[Robot Quadruped Robot Reviews](http://www.deepnlp.org/store/quadruped-robot) <br>
+[Robot Humanoid Robot Reviews](http://www.deepnlp.org/store/humanoid-robot) <br>
+[Robotaxi Reviews](http://www.deepnlp.org/store/robotaxi) <br>
+[Electric Vehicle Reviews](http://www.deepnlp.org/store/electric-vehicle) <br>
+
 
 ## AI App Store Major AI Service Publisher
-
+### Chatbot Assistant
 [ChatGPT User Reviews](http://www.deepnlp.org/store/pub/pub-chatgpt-openai) <br>
 [Gemini User Reviews](http://www.deepnlp.org/store/pub/pub-gemini-google) <br>
 [Perplexity User Reviews](http://www.deepnlp.org/store/pub/pub-perplexity) <br>
 [Claude Anthropic User Reviews](http://www.deepnlp.org/store/pub/pub-claude-anthropic) <br>
-[Midjourney User Reviews](http://www.deepnlp.org/store/pub/pub-midjourney) <br>
-[Stable Diffusion User Reviews](http://www.deepnlp.org/store/pub/pub-stable-diffusion) <br>
-[Canva User Reviews](http://www.deepnlp.org/store/pub/pub-canva) <br>
 [Doubao User Reviews](http://www.deepnlp.org/store/pub/pub-doubao-douyin) <br>
 [Qwen User Reviews](http://www.deepnlp.org/store/pub/pub-qwen-alibaba) <br>
 [Zhipu AI User Reviews](http://www.deepnlp.org/store/pub/pub-zhipu-ai) <br>
 [Zhipu CogVLM AI](http://www.deepnlp.org/store/pub/pub-cogvlm-zhipu-ai) <br>
-[Grammarly User Reviews](http://www.deepnlp.org/store/pub/pub-grammarly) <br>
 [Character.AI User Reviews](http://www.deepnlp.org/store/pub/pub-character-ai) <br>
 [Xinye User Reviews](http://www.deepnlp.org/store/pub/pub-xingye-minimax) <br>
-
+### Image Generator
+[Midjourney User Reviews](http://www.deepnlp.org/store/pub/pub-midjourney) <br>
+[Stable Diffusion User Reviews](http://www.deepnlp.org/store/pub/pub-stable-diffusion) <br>
+[Canva User Reviews](http://www.deepnlp.org/store/pub/pub-canva) <br>
+### AI Writer
+[Grammarly User Reviews](http://www.deepnlp.org/store/pub/pub-grammarly) <br>
+### Robots Humanoid Quadruped
+[Figure ai User Reviews](http://www.deepnlp.org/store/pub/pub-figure-ai) <br>
+[Unitree User Reviews](http://www.deepnlp.org/store/pub/pub-unitree) <br>
+[Boston Dynamics Reviews](http://www.deepnlp.org/store/pub/pub-boston-dynamics) <br>
+[Anybotics Reviews](http://www.deepnlp.org/store/pub/pub-anybotics) <br>
+[Tesla Reviews](http://www.deepnlp.org/store/pub/pub-tesla) <br>
+### Electric Vehicle
+[Bmw i4 Reviews](http://www.deepnlp.org/store/pub/pub-bmw-i4) <br>
+[Hyundai ioniq 6 Reviews](http://www.deepnlp.org/store/pub/pub-hyundai-ioniq-6) <br>
+[Byd seal Reviews](http://www.deepnlp.org/store/pub/pub-byd-seal) <br>
+[Tesla Model 3 Reviews](http://www.deepnlp.org/store/pub/pub-tesla-model-3) <br>
+### Video Generator
+[Kling AI Reviews](http://www.deepnlp.org/store/pub/pub-kling-kwai) <br>
+[Dreamina Douyin Reviews](http://www.deepnlp.org/store/compare/pub-dreamina-douyin) <br>
+[Sora Openai Reviews](http://www.deepnlp.org/store/pub/pub-sora-openai) <br>
 
 ### Comparison of AI Services Reviews and Ratings in Multiple Aspects
 #### AI Chatbot Assistant
@@ -110,6 +131,18 @@ AI in PUBLIC SERVICE, AI in HOUSING, AI in LAW, AI in COMMUNICATION, AI in FOOD
 [midjourney vs chatgpt](http://www.deepnlp.org/store/compare/pub-midjourney-vs-pub-chatgpt-openai) <br>
 [chatgpt vs midjourney](http://www.deepnlp.org/store/compare/pub-chatgpt-openai-vs-pub-midjourney) <br>
 
+#### AI Video Generator Comparison
+[Runway vs Pika](http://www.deepnlp.org/store/compare/pub-runway-vs-pub-pika) <br>
+[Runway vs Kling](http://www.deepnlp.org/store/compare/pub-runway-vs-pub-kling-kwai) <br>
+[Runway vs Dreamina](http://www.deepnlp.org/store/compare/pub-runway-vs-pub-dreamina-douyin) <br>
+[Kling AI vs Runway](http://www.deepnlp.org/store/compare/pub-kling-kwai-vs-pub-runway) <br>
+[Kling AI vs Pika](http://www.deepnlp.org/store/compare/pub-kling-kwai-vs-pub-pika) <br>
+[Kling AI vs Dreamina](http://www.deepnlp.org/store/compare/pub-kling-kwai-vs-pub-dreamina-douyin) <br>
+[Dreamina vs Kling AI](http://www.deepnlp.org/store/compare/pub-dreamina-douyin-vs-pub-kling-kwai) <br>
+[Dreamina vs Runway](http://www.deepnlp.org/store/compare/pub-dreamina-douyin-vs-pub-runway) <br>
+[Dreamina vs Pika](http://www.deepnlp.org/store/compare/pub-dreamina-douyin-vs-pub-pika) <br>
+
+
 #### AI Chatbot
 [character ai vs Chatgpt](http://www.deepnlp.org/store/compare/pub-character-ai-vs-pub-chatgpt-openai) <br>
 [character ai vs Gemini](http://www.deepnlp.org/store/compare/pub-character-ai-vs-pub-gemini-google) <br>
@@ -122,19 +155,29 @@ AI in PUBLIC SERVICE, AI in HOUSING, AI in LAW, AI in COMMUNICATION, AI in FOOD
 [Baidu VS Waymo Robotaxi Reviews](http://www.deepnlp.org/store/compare/pub-baidu-apollo-vs-pub-waymo-google) <br>
 [Waymo vs Baidu User Reviews](http://www.deepnlp.org/store/compare/pub-waymo-google-vs-pub-baidu-apollo) <br>
 
+#### Robots
+[Figure AI vs Tesla](http://www.deepnlp.org/store/compare/pub-figure-ai-vs-pub-tesla) <br>
+[Tesla vs Figure AI](http://www.deepnlp.org/store/compare/pub-tesla-vs-pub-figure-ai) <br>
+[Figure AI vs Boston Dynamics](http://www.deepnlp.org/store/compare/pub-figure-ai-vs-pub-boston-dynamics) <br>
+[Boston Dynamics vs Figure AI](http://www.deepnlp.org/store/compare/pub-boston-dynamics-vs-pub-figure-ai) <br>
+[Tesla vs Boston Dynamics](http://www.deepnlp.org/store/compare/pub-tesla-vs-pub-boston-dynamics) <br>
+[Boston Dynamics vs Tesla](http://www.deepnlp.org/store/compare/pub-boston-dynamics-vs-pub-tesla) <br>
+[Unitree vs Boston Dynamics](http://www.deepnlp.org/store/compare/pub-unitree-vs-pub-boston-dynamics) <br>
+[Anybotics vs Boston Dynamics](http://www.deepnlp.org/store/compare/pub-anybotics-vs-pub-boston-dynamics) <br>
+
 
 ## AI Store of Image Generator
-[AI Image Generator User Rating and Reviews](http://www.deepnlp.org/store/image-generator) <br>
 
-![image text](./image_generator.jpg "AI Image Generator Reviews and Ratings")
+[Best AI Tools in Image Generator User Ratings Reviews and Showcase](http://www.deepnlp.org/store/image-generator) <br>
+
+![image text](./store/image_generator.jpg "AI Image Generator Reviews and Ratings")
 
 DeepNLP AI store is a platform and community for user to write genuine user reviews and ratings of AI apps and services. User can upload pictures as showcase of AI Image Generator,
 such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about some common user prompts (questions or intents), such as "Generate Cartoon Characters", "Draw Fantacy and Humanoids", "Plot Architecture" and more.
 
-#### List of Image Generator Use Case and ShowCase
+![image text](./store/image_generator_example_1.jpg "AI Image Generator Reviews and Ratings Comments 1")
+![image text](./store/image_generator_example_2.jpg "AI Image Generator Reviews and Ratings Comments 2")
 
-![image text](./image_generator_example_1.jpg "AI Image Generator Reviews and Ratings Comments 1")
-![image text](./image_generator_example_2.jpg "AI Image Generator Reviews and Ratings Comments 2")
 
 
 ### AI Image Generator ShowCases
@@ -190,6 +233,7 @@ such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about
 
 #### AI Image Generator of SPORTS
 
+
 [AI Image Generator of SPORTS](http://www.deepnlp.org/store/image-generator/sports) <br>
 [Ask Midjourney to generate SPORTS related images](http://www.deepnlp.org/store/image-generator/sports/pub-midjourney/ask-midjourney-to-generate-sports-related-images) <br>
 [Ask Stable Diffusion to generate SPORTS related images](http://www.deepnlp.org/store/image-generator/sports/pub-stable-diffusion/ask-stable-diffusion-to-generate-sports-related-images) <br>
@@ -213,7 +257,9 @@ such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about
 
 
 #### AI Image Generator of TRAVEL
+
 [AI Image Generator of TRAVEL](http://www.deepnlp.org/store/image-generator/travel) <br>
+
 [Ask Midjourney to generate TRAVEL related images](http://www.deepnlp.org/store/image-generator/travel/pub-midjourney/ask-midjourney-to-generate-travel-related-images) <br>
 [Ask Stable Diffusion to generate TRAVEL related images](http://www.deepnlp.org/store/image-generator/travel/pub-stable-diffusion/ask-stable-diffusion-to-generate-travel-related-images) <br>
 [Ask Canva to generate TRAVEL related images](http://www.deepnlp.org/store/image-generator/travel/pub-canva/ask-canva-to-generate-travel-related-images) <br>
@@ -224,6 +270,7 @@ such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about
 
 
 #### AI Image Generator of NATURE
+
 [AI Image Generator of NATURE](http://www.deepnlp.org/store/image-generator/nature) <br>
 [Ask Midjourney to generate NATURE related images](http://www.deepnlp.org/store/image-generator/nature/pub-midjourney/ask-midjourney-to-generate-nature-related-images) <br>
 [Ask Stable Diffusion to generate NATURE related images](http://www.deepnlp.org/store/image-generator/nature/pub-stable-diffusion/ask-stable-diffusion-to-generate-nature-related-images) <br>
@@ -236,6 +283,7 @@ such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about
 
 
 #### AI Image Generator of DAILY LIFE
+
 [AI Image Generator of DAILY LIFE](http://www.deepnlp.org/store/image-generator/daily-life) <br>
 [Ask Midjourney to generate DAILY LIFE related images](http://www.deepnlp.org/store/image-generator/daily-life/pub-midjourney/ask-midjourney-to-generate-daily-life-related-images) <br>
 [Ask Stable Diffusion to generate DAILY LIFE related images](http://www.deepnlp.org/store/image-generator/daily-life/pub-stable-diffusion/ask-stable-diffusion-to-generate-daily-life-related-images) <br>
@@ -247,46 +295,42 @@ such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about
 
 
 
-
-## AI Store of Chatbot & Assistant: User Ratings, Reviews and Showcase
-[AI  Chatbot & Assistant](http://www.deepnlp.org/store/chatbot-assistant) <br>
-
-
-### RECENT NEWS & TREND
-[AI in Chatbot Assistant RECENT NEWS & TREND](http://www.deepnlp.org/store/chatbot-assistant/recent-news-&-trend) <br>
-
-
-### FUTURE EVENTS
-[AI in Chatbot Assistant Future Events](http://www.deepnlp.org/store/chatbot-assistant/future-events) <br>
+### ShowCases
+[Use Midjourney to Generate Cartoon Characters](http://www.deepnlp.org/store/image-generator/cartoon-character/pub-midjourney/use-midjourney-to-generate-cartoon-characters) <br>
+[Use Midjourney to Draw Fantacy and Humanoids](http://www.deepnlp.org/store/image-generator/fantacy/pub-midjourney/use-midjourney-to-draw-fantacy-and-humanoids) <br>
+[Use Midjourney to Plot Architecture](http://www.deepnlp.org/store/image-generator/architecture/pub-midjourney/use-midjourney-to-plot-architecture)
+[Use Stable Diffusion to Generate Cartoon Characters](http://www.deepnlp.org/store/image-generator/cartoon-character/pub-stable-diffusion/use-stable-diffusion-to-generate-cartoon-characters)
+[Use Stable Diffusion to Generate Fantacy and Humanoids](http://www.deepnlp.org/store/image-generator/fantacy/pub-stable-diffusion/use-stable-diffusion-to-generate-fantacy-and-humanoids)
+[Use Canva to Draw Fantacy and Humanoids](http://www.deepnlp.org/store/image-generator/fantacy/pub-canva/use-canva-to-draw-fantacy-and-humanoids)
 
 
-### ENCYCLOPAEDIA
-[AI in Chatbot Assistant ENCYCLOPAEDIA](http://www.deepnlp.org/store/chatbot-assistant/encyclopaedia) <br>
+## AI Store of AI Video Generator
+[AI Video Generator Reviews](http://www.deepnlp.org/store/video-generator) <br>
+[Use Sora to generate FANTASY related Videos](http://www.deepnlp.org/store/video-generator/fantasy/pub-sora-openai/use-sora-to-generate-fantasy-related-videos) <br>
+[Use Pika to generate ALL related Videos](http://www.deepnlp.org/store/video-generator/all/pub-pika/use-pika-to-generate-all-related-videos) <br>
+[Use Kling to generate FANTASY related Videos](http://www.deepnlp.org/store/video-generator/fantasy/pub-kling-kwai/use-kling-to-generate-fantasy-related-videos) <br>
+[Use Runway to generate FANTASY related Videos](http://www.deepnlp.org/store/video-generator/fantasy/pub-runway/use-runway-to-generate-fantasy-related-videos) <br>
+[Use Sora to generate FANTASY related Videos](http://www.deepnlp.org/store/video-generator/fantasy/pub-sora-openai/use-sora-to-generate-fantasy-related-videos) <br>
 
 
+## AI Store in Law
+[Best AI in Law and Legal User Ratings Reviews and Showcase](http://www.deepnlp.org/store/law) <br>
 
-## AI Store in Law: User Ratings, Reviews and Showcase
+![image text](./store/ai_for_law.jpg "AI for Law and Legal Reviews and Ratings")
+
+
+Unlike most Large Language Models(LLM) benchmark and arena's win-rate metric, which is quite difficult for customers to understand (1 vs 1 metric), users' reviews on DeepNLP AI store is about AI tool's performance in a detailed subfield of the industry, such as "Ask ChatGPT Employment Law Related Questions" and "Ask Gemini Contracts and Agreements Related Questions". Users can give rating from 1 to 5 stars on different aspects of the answeres generated by AI systems, including "Overall", "Correctness", "Helpfulness", "Interesting". They can also give rating to any customized aspect of the service, such as "whether the information is realtime", "generation speed", and many others. Here, we are going to cover different sub areas of AI in Law, includine Employment Law, Contracts and Agreements, Business and Corporate Law, Real Estate, Family Law, Personal Injury, Criminal Law, Immigration Law, and Civil Rights Law, etc.
+
 
 Prompts (Questions) exmaples
-How do I file divorce in California and I want my 3 years old son's custody
-Do I need a personal injury lawyer to get compensation as victims of car or truck accident?"
+- You are a lawyer specialized in employment Law. I will consult you a few questions. And my questions include "Can my employer fire me without cause and how much compensation can I get if I live in California?". 
+- What are my rights regarding workplace discrimination?
+- Act as an employment law expert and please answer this question "Can I fight for unjustified evaluation if I am placed on performance improvement plan?".
 
 
-[AI in Law and Legal User Rating and Reviews](http://www.deepnlp.org/store/law) <br>
-
-
-![image text](./ai_for_law.jpg "AI for Law and Legal Reviews and Ratings")
-
-
-This question is related to the AI app ranking based on genuine user review and ratings. AI in Law covers multiple subfields, such as Employment Law,
-Contracts and Agreements, Business and Corporate Law, Real Estate, Civil Rights Law, Family Law, Personal Injury, Criminal Law, Immigration Law.
-
-You can visit these sub-categories to see complete list of AI app service ranking.
 
 ### Employment Law
-[AI in Employment Law](http://www.deepnlp.org/store/law/employment-law)  <br>
-
-Employment Law AI App Performance Review, Ranking 
+[Best AI in Employment Law](http://www.deepnlp.org/store/law/employment-law)  <br>
 [ask-chatgpt-employment-law-related-questions](http://www.deepnlp.org/store/law/employment-law/pub-chatgpt-openai/ask-chatgpt-employment-law-related-questions)  <br>
 [ask perplexity ai employment law related questions](http://www.deepnlp.org/store/law/employment-law/pub-perplexity/ask-perplexity-ai-employment-law-related-questions)  <br>
 [ask gemini employment law related questions](http://www.deepnlp.org/store/law/employment-law/pub-gemini-google/ask-gemini-employment-law-related-questions)  <br>
@@ -294,9 +338,7 @@ Employment Law AI App Performance Review, Ranking
 
 
 ### Contracts and Agreements
-[AI in Contracts and Agreements](http://www.deepnlp.org/store/law/contracts-and-agreements)  <br>
-
-Contracts and Agreements Law AI App Performance Review, Ranking
+[Best AI in Contracts and Agreements](http://www.deepnlp.org/store/law/contracts-and-agreements) <br>
 [Ask perplexity ai contracts and agreements related questions](http://www.deepnlp.org/store/law/contracts-and-agreements/pub-perplexity/ask-perplexity-ai-contracts-and-agreements-related-questions)  <br>
 [Ask chatgpt contracts and agreements related questions](http://www.deepnlp.org/store/law/contracts-and-agreements/pub-chatgpt-openai/ask-chatgpt-contracts-and-agreements-related-questions)  <br>
 [Ask gemini contracts and agreements related questions](http://www.deepnlp.org/store/law/contracts-and-agreements/pub-gemini-google/ask-gemini-contracts-and-agreements-related-questions)  <br>
@@ -304,9 +346,7 @@ Contracts and Agreements Law AI App Performance Review, Ranking
 
 
 ###  Business and Corporate Law
-[AI in Business and Corporate Law](http://www.deepnlp.org/store/law/business-and-corporate-law)
-
-Business and Corporate Law AI App Performance Review, Ranking
+[Best AI in Business and Corporate Law](http://www.deepnlp.org/store/law/business-and-corporate-law)
 [ask gemini business and corporate law related questions](http://www.deepnlp.org/store/law/business-and-corporate-law/pub-gemini-google/ask-gemini-business-and-corporate-law-related-questions)  <br>
 [ask chatgpt business and corporate law related questions](http://www.deepnlp.org/store/law/business-and-corporate-law/pub-chatgpt-openai/ask-chatgpt-business-and-corporate-law-related-questions)  <br>
 [ask perplexity ai business and corporate law related questions](http://www.deepnlp.org/store/law/business-and-corporate-law/pub-perplexity/ask-perplexity-ai-business-and-corporate-law-related-questions)  <br>
@@ -314,10 +354,7 @@ Business and Corporate Law AI App Performance Review, Ranking
 
 
 ### Real Estate
-[AI in Real Estate Law](http://www.deepnlp.org/store/law/real-estate)
-
-Real Estate Law AI App Performance Review, Ranking
-
+[Best AI in Real Estate Law](http://www.deepnlp.org/store/law/real-estate)
 [ask-chatgpt-real-estate-related-questions](http://www.deepnlp.org/store/law/real-estate/pub-chatgpt-openai/ask-chatgpt-real-estate-related-questions) <br>
 [ask-perplexity-ai-real-estate-related-questions](http://www.deepnlp.org/store/law/real-estate/pub-perplexity/ask-perplexity-ai-real-estate-related-questions) <br>
 [ask-gemini-real-estate-related-questions](http://www.deepnlp.org/store/law/real-estate/pub-gemini-google/ask-gemini-real-estate-related-questions) <br>
@@ -325,9 +362,7 @@ Real Estate Law AI App Performance Review, Ranking
 
 
 ### Civil Rights Law
-[AI in Civil Rights Law](http://www.deepnlp.org/store/law/civil-rights-law) <br>
-
-Civil Rights Law AI App Performance Review, Ranking
+[Best AI in Civil Rights Law](http://www.deepnlp.org/store/law/civil-rights-law) <br>
 [ask perplexity ai civil rights law related questions](http://www.deepnlp.org/store/law/civil-rights-law/pub-perplexity/ask-perplexity-ai-civil-rights-law-related-questions) <br>
 [ask gemini civil rights law related questions](http://www.deepnlp.org/store/law/civil-rights-law/pub-gemini-google/ask-gemini-civil-rights-law-related-questions) <br>
 [ask chatgpt civil rights law related questions](http://www.deepnlp.org/store/law/civil-rights-law/pub-chatgpt-openai/ask-chatgpt-civil-rights-law-related-questions) <br>
@@ -335,62 +370,46 @@ Civil Rights Law AI App Performance Review, Ranking
 
 
 ### Family Law
-[AI in Family Law](http://www.deepnlp.org/store/law/family-law)
-
-Family Law AI App Performance Review, Ranking
-
+[Best AI in Family Law](http://www.deepnlp.org/store/law/family-law)
 [Ask chatgpt family law and related question](http://www.deepnlp.org/store/law/family-law/pub-chatgpt-openai/ask-chatgpt-family-law-and-related-question) <br>
 [Ask claude family law related questions](http://www.deepnlp.org/store/law/family-law/pub-claude-anthropic/ask-claude-family-law-related-questions) <br>
 [Ask perplexity ai family law related questions](http://www.deepnlp.org/store/law/family-law/pub-perplexity/ask-perplexity-ai-family-law-related-questions) <br>
 [Ask gemini family law related questions](http://www.deepnlp.org/store/law/family-law/pub-gemini-google/ask-gemini-family-law-related-questions) <br>
 
 
-
 ### Personal Injury
-[AI in Personal Injury](http://www.deepnlp.org/store/law/personal-injury) <br>
-
-Personal Injury AI App Performance Review, Ranking
-
+[Best AI in Personal Injury](http://www.deepnlp.org/store/law/personal-injury) <br>
 [Ask perplexity ai personal injury law and accidents related question](http://www.deepnlp.org/store/law/personal-injury/pub-perplexity/ask-perplexity-ai-personal-injury-law-and-accidents-related-question) <br>
 [Ask chatgpt personal injury law and accidents related question](http://www.deepnlp.org/store/law/personal-injury/pub-chatgpt-openai/ask-chatgpt-personal-injury-law-and-accidents-related-question) <br>
 [Ask claude personal injury law and accidents related question](http://www.deepnlp.org/store/law/personal-injury/pub-claude-anthropic/ask-claude-personal-injury-law-and-accidents-related-question) <br>
 [Ask gemini personal injury law and accidents related question](http://www.deepnlp.org/store/law/personal-injury/pub-gemini-google/ask-gemini-personal-injury-law-and-accidents-related-question) <br>
 
-
-
 ### Criminal Law
-[AI in Criminal Law](http://www.deepnlp.org/store/law/criminal-law)
-
-Criminal Law AI App Performance Review, Ranking
-
+[Best AI in Criminal Law](http://www.deepnlp.org/store/law/criminal-law)
 [Ask gemini criminal law related questions](http://www.deepnlp.org/store/law/criminal-law/pub-gemini-google/ask-gemini-criminal-law-related-questions) <br>
 [Ask perplexity ai criminal law related questions](http://www.deepnlp.org/store/law/criminal-law/pub-perplexity/ask-perplexity-ai-criminal-law-related-questions) <br>
 [Ask chatgpt criminal law related questions](http://www.deepnlp.org/store/law/criminal-law/pub-chatgpt-openai/ask-chatgpt-criminal-law-related-questions) <br>
 [Ask claude criminal law related questions](http://www.deepnlp.org/store/law/criminal-law/pub-claude-anthropic/ask-claude-criminal-law-related-questions) <br>
 
 ### Immigration Law
-[AI in immigration law](http://www.deepnlp.org/store/law/immigration-law)
-
+[Best AI in immigration law](http://www.deepnlp.org/store/law/immigration-law)
 [Ask perplexity ai immigration law related questions](http://www.deepnlp.org/store/law/immigration-law/pub-perplexity/ask-perplexity-ai-immigration-law-related-questions) <br>
 [Ask gemini immigration law related questions](http://www.deepnlp.org/store/law/immigration-law/pub-gemini-google/ask-gemini-immigration-law-related-questions) <br>
 [Ask chatgpt immigration law related questions](http://www.deepnlp.org/store/law/immigration-law/pub-chatgpt-openai/ask-chatgpt-immigration-law-related-questions) <br>
 [Ask gemini criminal law related questions](http://www.deepnlp.org/store/law/criminal-law/pub-gemini-google/ask-gemini-criminal-law-related-questions) <br>
 
 
+## AI in Finance: User Ratings, Reviews and Showcase
 
+[Best AI in Finance User Ratings Reviews and Showcase](http://www.deepnlp.org/store/finance) <br>
 
-## AI Store in Finance
+![image text](./store/ai_for_finance.jpg "AI for Finance Reviews and Ratings")
 
-[AI for Finance User Rating and Reviews](http://www.deepnlp.org/store/finance) <br>
+Prompts (Questions)
+- You are an expert in stock investment, and I will consult you a few questions. The questions include "Is Tesla a buy stock? Should I sell Nvidia stock after financial report season?"
+- Please act as a trader. Please answer this question "Summarize Nvidia's GAAP Financial Report Q4 FY24 statistics and compare P/E ratio with other tech company such as google and apple"
+- Act as a financial analyst and "Please draw a bar chart comparing the market capital of Google, Apple, Tesla, Nvidia and Microsoft."
 
-![image text](./ai_for_finance.jpg "AI for Finance Reviews and Ratings")
-
-
-Prompts (Questions) exmaples
-1. Is Tesla a Buy Stock?
-2. How has the dollar-euro conversion rate changed recently?
-3. Should I buy health insurance for my mom who is above 50 years old already?
-4. My mom has broken her legs and is on wheels right now. And I am wondering if it's economic to buy additional health insurance.
 
 ### AI in Investment Finance
 [Best AI in Investment Finance](http://www.deepnlp.org/store/finance/investment) <br>
@@ -414,6 +433,7 @@ Prompts (Questions) exmaples
 [Ask Claude MORTGAGE & LOAN Related Questions](http://www.deepnlp.org/store/finance/mortgage-&-loan/pub-claude-anthropic/ask-claude-mortgage-&-loan-related-questions) <br>
 [Ask Perplexity AI MORTGAGE & LOAN Related Questions](http://www.deepnlp.org/store/finance/mortgage-&-loan/pub-perplexity/ask-perplexity-ai-mortgage-&-loan-related-questions) <br>
 
+
 ### AI in BANKING Finance
 [Best AI in BANKING Finance](http://www.deepnlp.org/store/finance/banking) <br>
 [Ask Perplexity AI BANKING Related Questions](http://www.deepnlp.org/store/finance/banking/pub-perplexity/ask-perplexity-ai-banking-related-questions) <br>
@@ -430,7 +450,11 @@ Prompts (Questions) exmaples
 [Ask Perplexity AI DEBT Related Questions](http://www.deepnlp.org/store/finance/debt/pub-perplexity/ask-perplexity-ai-debt-related-questions) <br>
 
 
+
+
 ## AI in Healthcare
+[Best AI in Healthcare User Ratings Reviews and Showcase](http://www.deepnlp.org/store/healthcare/) <br>
+
 ### HOSPITAL APPOINTMENT
 [Best AI in HOSPITAL APPOINTMENT](http://www.deepnlp.org/store/healthcare/hospital-appointment) <br>
 [Ask Gemini HOSPITAL APPOINTMENT Related Questions](http://www.deepnlp.org/store/healthcare/hospital-appointment/pub-gemini-google/ask-gemini-hospital-appointment-related-questions) <br>
@@ -495,10 +519,9 @@ Prompts (Questions) exmaples
 [Ask Gemini MEDICAL INSTRUMENT Related Questions](http://www.deepnlp.org/store/healthcare/medical-instrument/pub-gemini-google/ask-gemini-medical-instrument-related-questions) <br>
 
 
+
 ## AI for Elderly: User Ratings, Reviews and Showcase
-
-[AI for Elderly User Ratings, Reviews and Showcase](http://www.deepnlp.org/store/elderly) <br>
-
+[Best AI for Elderly User Ratings, Reviews and Showcase](http://www.deepnlp.org/store/elderly) <br>
 
 Prompts (Questions) exmaples
 What are the side effects of [medication]?
@@ -510,20 +533,20 @@ How can I manage arthritis pain?
 
 
 ### ShowCases
-[Elderly People Ask Gemini Personal Hobbies Related Questions](http://www.deepnlp.org/store/elderly/hobby/pub-gemini-google/elderly-people-ask-gemini-personal-hobbies-related-questions)
-[Elderly People Ask Gemini Legal Questions](http://www.deepnlp.org/store/elderly/legal/pub-gemini-google/elderly-people-ask-gemini-legal-questions)
-[Elderly People Ask Gemini Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-gemini-google/elderly-people-ask-gemini-health-and-medicine-related-questions)
-[Elderly People Ask ChatGPT Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-chatgpt-openai/elderly-people-ask-chatgpt-health-and-medicine-related-questions)
-[Elderly People Ask Perplexity AI Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-perplexity/elderly-people-ask-perplexity-ai-health-and-medicine-related-questions)
-[Elderly People Ask Claude Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-claude-anthropic/elderly-people-ask-claude-health-and-medicine-related-questions)
-
+[Elderly People Ask Gemini Personal Hobbies Related Questions](http://www.deepnlp.org/store/elderly/hobby/pub-gemini-google/elderly-people-ask-gemini-personal-hobbies-related-questions) <br>
+[Elderly People Ask Gemini Legal Questions](http://www.deepnlp.org/store/elderly/legal/pub-gemini-google/elderly-people-ask-gemini-legal-questions) <br>
+[Elderly People Ask Gemini Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-gemini-google/elderly-people-ask-gemini-health-and-medicine-related-questions) <br>
+[Elderly People Ask ChatGPT Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-chatgpt-openai/elderly-people-ask-chatgpt-health-and-medicine-related-questions) <br>
+[Elderly People Ask Perplexity AI Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-perplexity/elderly-people-ask-perplexity-ai-health-and-medicine-related-questions) <br>
+[Elderly People Ask Claude Health and Medicine Related Questions](http://www.deepnlp.org/store/elderly/health/pub-claude-anthropic/elderly-people-ask-claude-health-and-medicine-related-questions) <br>
 
 
 ## AI for Kids: User Ratings, Reviews and Showcase
 
-[AI for Elderly User Ratings, Reviews and Showcase](http://www.deepnlp.org/store/kids)
+[Best AI for Kids User Ratings, Reviews and Showcase](http://www.deepnlp.org/store/kids)
 
 Prompts (Questions) exmaples
+
 ### STORY TELLING for KIDS
 1. Please tell me a bedtime story about unicorns for my 4 years old daughter.
 2. Help me write a story about Paw Patrol Dogs Fighting Bad Guys
@@ -532,93 +555,48 @@ Prompts (Questions) exmaples
 1. Help me Draw a picture about Paw Patrol Dogs Chase Driving Police Car
 2. Help me Draw a picture Peppa Pig playing in the swimming pool
 
-
-
-## ShowCases
-#### Gemini 
+ShowCases
 [Ask Gemini to Tell a Bedtime Story](http://www.deepnlp.org/store/kids/story-telling/pub-gemini-google/ask-gemini-to-tell-a-bedtime-story)
-
 [Ask Gemini to Draw Cartoon Characters](http://www.deepnlp.org/store/kids/drawing/pub-gemini-google/ask-gemini-to-draw-cartoon-characters)
-
-#### ChatGPT
 [Ask Gemini to Tell a Bedtime Story](http://www.deepnlp.org/store/kids/story-telling/pub-chatgpt-openai/ask-chatgpt-to-tell-a-bedtime-story)
-
 [Ask ChatGPT to Draw Cartoon Character](http://www.deepnlp.org/store/kids/drawing/pub-chatgpt-openai/ask-chatgpt-to-draw-cartoon-character)
 
 
-
-
-
-## AI in LifeStyle: User Ratings, Reviews and Showcase
-
-[AI for LifeStyle User Ratings, Reviews and Showcase](http://www.deepnlp.org/store/lifestyle)
+## AI in LifeStyle
+[Best AI in LifeStyle User Ratings, Reviews and Showcase](http://www.deepnlp.org/store/lifestyle)
 
 Prompts (Questions) exmaples
 
-## Act as ${role}
+#### Act as ${role}
 I want you to respond and answer like ${role} using the tone, manner that ${role} would use. Do not write any explanations. My first sentence is ${your_question}.
 
+#### ShowCases
+[Ask ChatGPT to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-chatgpt-openai/ask-chatgpt-to-act-as-lovers-in-a-relationship) <br>
+[Ask Gemini to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-gemini-google/ask-gemini-to-act-as-lovers-in-a-relationship) <br>
+[Ask Character AI to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-character-ai/ask-character-ai-to-act-as-lovers-in-a-relationship) <br>
+[Ask Doubao to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-doubao-douyin/ask-doubao-to-act-as-lovers-in-a-relationship) <br>
+[Ask Qwen AI from Alibaba to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-qwen-alibaba/ask-qwen-ai-from-alibaba-to-act-as-lovers-in-a-relationship) <br>
+[Ask Zhipu AI to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-zhipu-ai/ask-zhipu-ai-to-act-as-lovers-in-a-relationship) <br>
 
+## AI in Productivity Tool
+[Best AI in Productivity Tool User Ratings, Reviews and Showcase](http://www.deepnlp.org/store/productivity-tool)
 
-## ShowCases
-
-#### ChatGPT
-
-[Ask ChatGPT to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-chatgpt-openai/ask-chatgpt-to-act-as-lovers-in-a-relationship)
-
-
-#### Gemini
-[Ask Gemini to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-gemini-google/ask-gemini-to-act-as-lovers-in-a-relationship)
-
-
-#### Character AI
-[Ask Character AI to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-character-ai/ask-character-ai-to-act-as-lovers-in-a-relationship)
-
-
-#### Doubao
-[Ask Doubao to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-doubao-douyin/ask-doubao-to-act-as-lovers-in-a-relationship)
-
-
-#### Qwen
-[Ask Qwen AI from Alibaba to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-qwen-alibaba/ask-qwen-ai-from-alibaba-to-act-as-lovers-in-a-relationship)
-
-
-#### Zhipu AI
-
-[Ask Zhipu AI to Act As Lovers in a Relationship](http://www.deepnlp.org/store/lifestyle/relationship/pub-zhipu-ai/ask-zhipu-ai-to-act-as-lovers-in-a-relationship)
-
-
-
-
-
-## AI in Productivity Tool: User Ratings, Reviews and Showcase
-
-[AI Productivity Tool](http://www.deepnlp.org/store/productivity-tool)
-
-
-![image text](./ai_productivity_tool.jpg "AI Productivity Tool")
-
-
+![image text](./store/ai_productivity_tool.jpg "AI Productivity Tool")
 
 ### Writing Tool
-[AI Productivity Tool-Writing Tool](http://www.deepnlp.org/store/productivity-tool/writing)
+[Best AI in Writing Tool](http://www.deepnlp.org/store/productivity-tool/writing)
 
 ### Research Analysis
+[Best AI in Research & Analysis](http://www.deepnlp.org/store/productivity-tool/research-&-analysis)
 
-[AI Productivity Tool-Research & Analysis](http://www.deepnlp.org/store/productivity-tool/research-&-analysis)
-
-####  Programming
-
-[AI Productivity Tool-Programming](http://www.deepnlp.org/store/productivity-tool/programming)
-
-
+###  Programming
+[Best AI in Programming](http://www.deepnlp.org/store/productivity-tool/programming)
 
 Prompts:
 Show me the ${programming language} code of ${algorithm}, no explanation.
 Write the ${programming language} to implement ${function}, no explanation.
 Generate the ${programming language} code of a ${description} website, no explanation.
 Find the ${statistic} from ${data_source} and display in ${format}.
-
 
 e.g. 
 1. Show me the latex code of KL Divergence
@@ -628,14 +606,64 @@ e.g.
 
 
 #### ShowCase
-
 ##### Programming
 [Gemini for Programming](http://www.deepnlp.org/store/productivity-tool/programming/pub-gemini-google/gemini-for-programming)
-
 [ChatGPT for Programming](http://www.deepnlp.org/store/productivity-tool/programming/pub-chatgpt-openai/chatgpt-for-programming)
 
 ##### Plot Chat
 [Use ChatGPT to Draw Plot of Math Function](http://www.deepnlp.org/store/productivity-tool/research-&-analysis/pub-chatgpt-openai/use-chatgpt-to-draw-plot-of-math-function)
-
 ##### Data Analysis
 [Use Gemini to Conduct Data Analysis](http://www.deepnlp.org/store/productivity-tool/research-&-analysis/pub-gemini-google/use-gemini-to-conduct-data-analysis)
+
+
+
+
+## Quadruped Robot Reviews
+[Quadruped Robot Review](http://www.deepnlp.org/store/quadruped-robot) <br>
+[Boston Dynamics Spot Robot Dog Customer Reviews](http://www.deepnlp.org/store/quadruped-robot/quadruped-robot/pub-boston-dynamics/boston-dynamics-spot-robot-dog-customer-reviews) <br>
+[Unitree Go2 Robot Dog Customer Reviews](http://www.deepnlp.org/store/quadruped-robot/quadruped-robot/pub-unitree/unitree-go2-robot-dog-customer-reviews) <br>
+[Anybotics Robot Dog Customer Reviews](http://www.deepnlp.org/store/quadruped-robot/quadruped-robot/pub-anybotics/anybotics-robot-dog-customer-reviews) <br>
+
+
+## Humanoid Robot Reviews
+[Humanoid Robot Reviews](http://www.deepnlp.org/store/humanoid-robot) <br>
+[Figure 02 Humanoid Robots Reviews](http://www.deepnlp.org/store/humanoid-robot/humanoid-robot/pub-figure-ai/figure-02-humanoid-robots-user-reviews) <br>
+
+## Robotaxi Reviews
+[Robotaxi Reviews](http://www.deepnlp.org/store/robotaxi) <br>
+[Take a Ride in Waymo ROBOTAXI And Write Your Reviews](http://www.deepnlp.org/store/robotaxi/robotaxi/pub-waymo-google/take-a-ride-in-waymo-robotaxi-and-write-your-reviews) <br>
+[Take a Ride in Baidu Apollo ROBOTAXI And Write Your Reviews](http://www.deepnlp.org/store/robotaxi/robotaxi/pub-baidu-apollo/take-a-ride-in-baidu-apollo-robotaxi-and-write-your-reviews) <br>
+[Take a Ride using Full Self-Driving FSD ability of Tesla](http://www.deepnlp.org/store/robotaxi/robotaxi/pub-tesla/take-a-ride-using-full-self-driving-fsd-ability-of-tesla) <br>
+
+## Electric Vehicle Reviews
+[Electric Vehicle Reviews](http://www.deepnlp.org/store/electric-vehicle) <br>
+[BMW i4 EV Reviews By Car Owners](http://www.deepnlp.org/store/electric-vehicle/electric-vehicle/pub-bmw-i4/bmw-i4-ev-reviews-by-car-owners) <br>
+[Hyundai IONIQ 6 EV Reviews By Car Owners](http://www.deepnlp.org/store/electric-vehicle/electric-vehicle/pub-hyundai-ioniq-6/hyundai-ioniq-6-ev-reviews-by-car-owners) <br>
+[BYD Seal EV Reviews By Car Owners](http://www.deepnlp.org/store/electric-vehicle/electric-vehicle/pub-byd-seal/byd-seal-ev-reviews-by-car-owners) <br>
+[Tesla Model 3 EV Reviews By Car Owners](http://www.deepnlp.org/store/electric-vehicle/electric-vehicle/pub-tesla-model-3/tesla-model-3-ev-reviews-by-car-owners) <br>
+
+
+## Related Blog
+http://www.deepnlp.org/blog/ <br>
+http://www.deepnlp.org/equation/ <br>
+http://www.deepnlp.org/search/ <br>
+http://www.deepnlp.org/workspace/ai_courses/ <br>
+http://www.deepnlp.org/workspace/aigc_chart/ <br>
+http://www.deepnlp.org/workspace/ai_writer/ <br>
+http://www.deepnlp.org/workspace/detail/ <br>
+[Statistics Equation Formula](http://www.deepnlp.org/blog/statistics-equations-latex-code) <br>
+[Machine Learning Equation Formula](http://www.deepnlp.org/blog/latex-code-machine-learning-equations) <br>
+[Introduction to multimodal generative models](http://www.deepnlp.org/blog/introduction-to-multimodal-generative-models) <br>
+[Generative AI Search Engine Optimization: How to Improve Your Content](http://www.deepnlp.org/blog/generative-ai-search-engine-optimization-how-to-improve-your-content) <br>
+[AI Courses for Kids](http://www.deepnlp.org/blog/how-to-use-generative-ai-to-draw-paw-patrol-dog-skye) <br>
+[AI in Fashion: Tell IWC Schaffhausen Watches Real or Fake](http://www.deepnlp.org/blog/how-to-tell-iwc-schaffhausen-watches-real-or-fake-20-steps) <br>
+[AI in Fashion: Tell Fendi bags real or fake](http://www.deepnlp.org/blog/how-to-tell-fendi-bags-real-or-fake-20-steps) <br>
+[AI in Fashion: Tell Coach bags real or fake](http://www.deepnlp.org/blog/how-to-tell-coach-bags-real-or-fake-20-steps) <br>
+[AI in Fashion: Tell Prada bags real or fake](http://www.deepnlp.org/blog/how-to-tell-prada-bags-real-or-fake-20-steps) <br>
+[AI in Fashion: Tell Gucci bags real or fake](http://www.deepnlp.org/blog/20-tricks-to-tell-gucci-bags-real-or-fake) <br>
+[AI in Fashion: Tell Dior bags real or fake](http://www.deepnlp.org/blog/tell-dior-bags-real-or-fake-20-steps) <br>
+[AI in Fashion: Tell Hermes bags real or fake](http://www.deepnlp.org/blog/20-tricks-to-tell-hermes-bags-real-or-fake) <br>
+[AI in Fashion: Tell Chanel bags real or fake](http://www.deepnlp.org/blog/20-tricks-to-tell-chanel-bags-real-or-fake) <br>
+[AI in Fashion: Tell Louis Vuitton bags real or fake](http://www.deepnlp.org/blog/20-tricks-to-tell-louis-vuitton-bags-real-or-fake) <br>
+[AI in Fashion: Tell Omega Watches real or fake](http://www.deepnlp.org/blog/20-tricks-to-tell-if-omega-watch-is-real-or-fake) <br>
+[AI in Fashion: Tell Rolex Watches real or fake](http://www.deepnlp.org/blog/20-tricks-to-tell-if-rolex-watch-is-real-or-fake) <br>
