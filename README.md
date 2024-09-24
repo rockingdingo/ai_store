@@ -193,7 +193,6 @@ such as Midjourney, Canva, Stable Diffusion, etc. People can write reviews about
 [Ask Qwen to generate FOOD related images](http://www.deepnlp.org/store/image-generator/food/pub-qwen-alibaba/ask-qwen-to-generate-food-related-images) <br>
 
 
-
 #### AI Image Generator of ANIMAL
 
 [AI Image Generator of ANIMAL](http://www.deepnlp.org/store/image-generator/animal) <br>
@@ -642,6 +641,10 @@ e.g.
 [BYD Seal EV Reviews By Car Owners](http://www.deepnlp.org/store/electric-vehicle/electric-vehicle/pub-byd-seal/byd-seal-ev-reviews-by-car-owners) <br>
 [Tesla Model 3 EV Reviews By Car Owners](http://www.deepnlp.org/store/electric-vehicle/electric-vehicle/pub-tesla-model-3/tesla-model-3-ev-reviews-by-car-owners) <br>
 
+## AI Agents Multi-Agents
+[AI Agent Visualization Review Asynchronous Multi-Agent Simulation](http://www.deepnlp.org/blog/ai-agent-visualization-review-asynchronous-multi-agent-simulation) <br>
+[Dialogue Visualization Agent Multimodal Visualization Tools for AI Systems A Review](http://www.deepnlp.org/blog/dialogue-agent-multimodal-visualization-tools-for-ai-systems) <br>
+
 
 ## DeepNLP AI & Robots Community Communities
 [DeepNLP AI & Robots Community for AI Practitioner](http://www.deepnlp.org/question) <br>
@@ -685,4 +688,7 @@ http://www.deepnlp.org/workspace/detail/ <br>
 [DeepNLP Watch Bags Review Panel](http://www.deepnlp.org/review/ecommerce/watch) <br>
 [DeepNLP Review Ecommerce Brand List](http://www.deepnlp.org/review/ecommerce/pub) <br>
 [DeepNLP Review Car Brand List](http://www.deepnlp.org/review/car/pub) <br>
+[AI Agent Visualization Review Asynchronous Multi-Agent Simulation](http://www.deepnlp.org/blog/ai-agent-visualization-review-asynchronous-multi-agent-simulation) <br>
+[Dialogue Visualization Agent Multimodal Visualization Tools for AI Systems A Review](http://www.deepnlp.org/blog/dialogue-agent-multimodal-visualization-tools-for-ai-systems) <br>
+
 
